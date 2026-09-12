@@ -1,0 +1,22 @@
+name: card
+
+on:
+  schedule:
+    - cron: "48 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: card
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-slim
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Collect card + loc + scorecard
+        uses: x-cmd-install/x-cmd-install-action@main
