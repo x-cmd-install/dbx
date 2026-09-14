@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 10 | 0 | 0 | 0 | 11 |
-| last60d | 2026-07-15 | 4 | 21 | 0 | 0 | 0 | 30 |
-| 90d | 2026-06-15 | 12 | 138 | 0 | 0 | 0 | 154 |
-| last180d | 2026-03-17 | 16 | 158 | 0 | 1 | 0 | 170 |
-| 360d | 2025-09-18 | 16 | 159 | 0 | 1 | 0 | 170 |
-| last720d | 2024-09-23 | 16 | 159 | 0 | 4 | 0 | 319 |
+| 30d | 2026-08-15 | 1 | 10 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-16 | 4 | 21 | 0 | 0 | 0 | 26 |
+| 90d | 2026-06-16 | 11 | 137 | 0 | 0 | 0 | 127 |
+| last180d | 2026-03-18 | 16 | 158 | 0 | 1 | 0 | 170 |
+| 360d | 2025-09-19 | 16 | 159 | 0 | 1 | 0 | 170 |
+| last720d | 2024-09-24 | 16 | 159 | 0 | 4 | 0 | 319 |
 
 ## Release assets
 
@@ -78,14 +78,6 @@ Lowest-scoring checks:
 | [dbxcli_3.7.3_windows_amd64.zip](https://github.com/dropbox/dbxcli/releases/download/v3.7.3/dbxcli_3.7.3_windows_amd64.zip) | 3.3 MiB | `native/win/x64` |
 | [SHA256SUMS](https://github.com/dropbox/dbxcli/releases/download/v3.7.3/SHA256SUMS) | 687 B | `other` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/dbxcli). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.7.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for dbxcli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dbxcli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +87,4 @@ Install metadata for dbxcli lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:07:52Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:15:28Z._
