@@ -30,8 +30,8 @@ Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
 - **Security-Policy** (4/10) — security policy file detected
+- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 202 · **Open PRs**: 3 · **Closed issues**: 126 · **Open issues**: 17 · **Commits**: 584
+- **Releases**: 40 · **Merged PRs**: 202 · **Open PRs**: 5 · **Closed issues**: 126 · **Open issues**: 17 · **Commits**: 584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 10 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-16 | 4 | 21 | 0 | 0 | 0 | 26 |
-| 90d | 2026-06-16 | 11 | 137 | 0 | 0 | 0 | 127 |
-| last180d | 2026-03-18 | 16 | 158 | 0 | 1 | 0 | 170 |
-| 360d | 2025-09-19 | 16 | 159 | 0 | 1 | 0 | 170 |
-| last720d | 2024-09-24 | 16 | 159 | 0 | 4 | 0 | 319 |
+| 30d | 2026-08-16 | 1 | 10 | 2 | 0 | 0 | 6 |
+| last60d | 2026-07-17 | 3 | 20 | 2 | 0 | 0 | 26 |
+| 90d | 2026-06-17 | 11 | 135 | 2 | 0 | 0 | 127 |
+| last180d | 2026-03-19 | 16 | 158 | 2 | 1 | 0 | 170 |
+| 360d | 2025-09-20 | 16 | 159 | 2 | 1 | 0 | 170 |
+| last720d | 2024-09-25 | 16 | 159 | 2 | 4 | 0 | 319 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dbxcli lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:15:28Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:19:56Z._
