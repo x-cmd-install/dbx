@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,151 · **Forks**: 108 · **Open issues**: 143 · **Contributors**: 36
+- **Stars**: 1,152 · **Forks**: 108 · **Open issues**: 143 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 10 | 2 | 0 | 0 | 6 |
-| last60d | 2026-07-17 | 3 | 20 | 2 | 0 | 0 | 26 |
-| 90d | 2026-06-17 | 11 | 135 | 2 | 0 | 0 | 127 |
-| last180d | 2026-03-19 | 16 | 158 | 2 | 1 | 0 | 170 |
-| 360d | 2025-09-20 | 16 | 159 | 2 | 1 | 0 | 170 |
-| last720d | 2024-09-25 | 16 | 159 | 2 | 4 | 0 | 319 |
+| 30d | 2026-08-17 | 1 | 8 | 2 | 0 | 0 | 6 |
+| last60d | 2026-07-18 | 3 | 20 | 2 | 0 | 0 | 26 |
+| 90d | 2026-06-18 | 9 | 132 | 2 | 0 | 0 | 127 |
+| last180d | 2026-03-20 | 16 | 158 | 2 | 1 | 0 | 170 |
+| 360d | 2025-09-21 | 16 | 159 | 2 | 1 | 0 | 170 |
+| last720d | 2024-09-26 | 16 | 159 | 2 | 4 | 0 | 319 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dbxcli lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:19:56Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:23:44Z._
