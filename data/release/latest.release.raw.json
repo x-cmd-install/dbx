@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3433420,
       "digest": "sha256:fee977ce4144174356cd7d1bae0b546aecad2570f14666bd44417e96af943484",
-      "download_count": 114,
+      "download_count": 123,
       "created_at": "2026-08-31T23:57:07Z",
       "updated_at": "2026-08-31T23:57:08Z",
       "browser_download_url": "https://github.com/dropbox/dbxcli/releases/download/v3.7.3/dbxcli_3.7.3_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3375945,
       "digest": "sha256:751a4ac57a6694d2c3a5aed3450e2ca46da4148fa0224d2d2321ad19c3b6d76a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-31T23:57:07Z",
       "updated_at": "2026-08-31T23:57:08Z",
       "browser_download_url": "https://github.com/dropbox/dbxcli/releases/download/v3.7.3/dbxcli_3.7.3_openbsd_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3459331,
       "digest": "sha256:f4c9b08ebe2b329628a08175d083dfdba4e0c667786999b80a249c401e84f6b7",
-      "download_count": 115,
+      "download_count": 126,
       "created_at": "2026-08-31T23:57:07Z",
       "updated_at": "2026-08-31T23:57:08Z",
       "browser_download_url": "https://github.com/dropbox/dbxcli/releases/download/v3.7.3/dbxcli_3.7.3_windows_amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 687,
       "digest": "sha256:c245600b16cc1a510bf2137ae6a67043e32c6ee4f55104e3c4f36059f85c3848",
-      "download_count": 58,
+      "download_count": 64,
       "created_at": "2026-08-31T23:57:07Z",
       "updated_at": "2026-08-31T23:57:07Z",
       "browser_download_url": "https://github.com/dropbox/dbxcli/releases/download/v3.7.3/SHA256SUMS"
