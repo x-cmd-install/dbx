@@ -14,15 +14,15 @@ x install dbx
 
 ## 代码洞察
 
-合计: **1,460,400** 行代码（覆盖前 5 种语言、共 **4501** 个文件）。
+合计: **1,474,421** 行代码（覆盖前 5 种语言、共 **4561** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 582,420 | 10,404 | 46,527 | 872 |
-| TypeScript | 563,169 | 19,460 | 54,697 | 2694 |
-| Go | 152,051 | 3,839 | 12,892 | 255 |
-| Java | 64,554 | 1,321 | 6,393 | 170 |
-| Vue | 23,686 | 298 | 1,550 | 510 |
+| Rust | 586,251 | 10,442 | 46,804 | 874 |
+| TypeScript | 570,716 | 19,659 | 55,580 | 2746 |
+| Go | 153,575 | 3,850 | 12,968 | 256 |
+| Java | 64,818 | 1,315 | 6,422 | 171 |
+| Vue | 23,986 | 300 | 1,557 | 514 |
 
 ## 源代码
 
@@ -32,64 +32,64 @@ x install dbx
 
 ## 发布
 
-- **最新版本**: `packages-v0.4.99` (2026-09-27)
-- **最近提交**: 2026-09-27
+- **最新版本**: `packages-v0.4.100` (2026-09-27)
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 31 个
 
 ## 流行度
 
-- **Star**: 20,794 · **Fork**: 2,014 · **开放 issue**: 6,694 · **贡献者**: 290
+- **Star**: 21,277 · **Fork**: 2,044 · **开放 issue**: 6,745 · **贡献者**: 291
 
 ## 累计统计
 
-- **发布数**: 296 · **已合并 PR**: 3262 · **开放 PR**: 44 · **已关闭 issue**: 5353 · **开放 issue**: 1341 · **提交数**: 7379
+- **发布数**: 300 · **已合并 PR**: 3284 · **开放 PR**: 48 · **已关闭 issue**: 5526 · **开放 issue**: 1219 · **提交数**: 7442
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 78 | 1084 | 23 | 1073 | 575 | 0 |
-| last60d | 2026-07-29 | 99 | 1951 | 40 | 2351 | 1016 | 0 |
-| 90d | 2026-06-29 | 99 | 2798 | 44 | 3836 | 1247 | 0 |
-| last180d | 2026-03-31 | 100 | 3262 | 44 | 5353 | 1341 | 0 |
-| 360d | 2025-10-02 | 100 | 3262 | 44 | 5353 | 1341 | 0 |
-| last720d | 2024-10-07 | 100 | 3262 | 44 | 5353 | 1341 | 7379 |
+| 30d | 2026-08-29 | 80 | 1093 | 28 | 1116 | 569 | 1412 |
+| last60d | 2026-07-30 | 99 | 1935 | 42 | 2447 | 885 | 2976 |
+| 90d | 2026-06-30 | 99 | 2782 | 47 | 3953 | 1119 | 4522 |
+| last180d | 2026-04-01 | 100 | 3284 | 48 | 5526 | 1219 | 7362 |
+| 360d | 2025-10-03 | 100 | 3284 | 48 | 5526 | 1219 | 7362 |
+| last720d | 2024-10-08 | 100 | 3284 | 48 | 5526 | 1219 | 7442 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [DBX-0.6.24-1.x86_64.rpm](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX-0.6.24-1.x86_64.rpm) | 37.3 MiB | `runtime/rpm/x86_64` |
-| [dbx-jdbc-plugin-0.1.40.zip](https://github.com/t8y2/dbx/releases/download/v0.6.24/dbx-jdbc-plugin-0.1.40.zip) | 9.2 MiB | `other` |
-| [dbx-jdbc-plugin-latest.zip](https://github.com/t8y2/dbx/releases/download/v0.6.24/dbx-jdbc-plugin-latest.zip) | 9.2 MiB | `other` |
-| [dbx-web_0.6.24_x86_64-browser-static.zip](https://github.com/t8y2/dbx/releases/download/v0.6.24/dbx-web_0.6.24_x86_64-browser-static.zip) | 31.6 MiB | `other` |
-| [dbx-web_0.6.24_x86_64-browser-static.zip.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.24/dbx-web_0.6.24_x86_64-browser-static.zip.sha256) | 66 B | `other` |
-| [DBX_0.6.24_amd64.AppImage](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_amd64.AppImage) | 108.9 MiB | `other` |
-| [DBX_0.6.24_amd64.deb](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_amd64.deb) | 37.3 MiB | `runtime/deb/amd64` |
-| [DBX_0.6.24_arm64-browser-static.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64-browser-static.tar.gz) | 31.6 MiB | `native/linux/arm64` |
-| [DBX_0.6.24_arm64-browser-static.tar.gz.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64-browser-static.tar.gz.sha256) | 105 B | `other` |
-| [DBX_0.6.24_arm64-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64-offline-setup.exe) | 204.5 MiB | `other` |
-| [DBX_0.6.24_arm64-portable.zip](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64-portable.zip) | 31.9 MiB | `other` |
-| [DBX_0.6.24_arm64-portable.zip.sig](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64-portable.zip.sig) | 420 B | `other` |
-| [DBX_0.6.24_arm64-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64-setup.exe) | 23.1 MiB | `other` |
-| [DBX_0.6.24_arm64.app.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64.app.tar.gz) | 34.7 MiB | `native/linux/arm64` |
-| [DBX_0.6.24_arm64.AppImage](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64.AppImage) | 105.9 MiB | `other` |
-| [DBX_0.6.24_arm64.deb](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64.deb) | 35.9 MiB | `runtime/deb/arm64` |
-| [DBX_0.6.24_arm64.dmg](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64.dmg) | 34.6 MiB | `other` |
-| [DBX_0.6.24_arm64.rpm](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64.rpm) | 35.9 MiB | `other` |
-| [DBX_0.6.24_arm64_en-US.msi](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_arm64_en-US.msi) | 31.5 MiB | `other` |
-| [DBX_0.6.24_x64-browser-static.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64-browser-static.tar.gz) | 33.1 MiB | `native/unknown` |
-| [DBX_0.6.24_x64-browser-static.tar.gz.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64-browser-static.tar.gz.sha256) | 103 B | `other` |
-| [DBX_0.6.24_x64-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64-offline-setup.exe) | 230.2 MiB | `other` |
-| [DBX_0.6.24_x64-portable.zip](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64-portable.zip) | 33.5 MiB | `other` |
-| [DBX_0.6.24_x64-portable.zip.sig](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64-portable.zip.sig) | 416 B | `other` |
-| [DBX_0.6.24_x64-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64-setup.exe) | 25.2 MiB | `other` |
-| [DBX_0.6.24_x64-win7-server2012r2-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64-win7-server2012r2-offline-setup.exe) | 171.9 MiB | `other` |
-| [DBX_0.6.24_x64-win7-server2012r2-offline-setup.exe.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64-win7-server2012r2-offline-setup.exe.sha256) | 118 B | `other` |
-| [DBX_0.6.24_x64.dmg](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64.dmg) | 37.7 MiB | `other` |
-| [DBX_0.6.24_x64_en-US.msi](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_0.6.24_x64_en-US.msi) | 33.2 MiB | `other` |
-| [DBX_x64.app.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.24/DBX_x64.app.tar.gz) | 37.6 MiB | `native/unknown` |
-| [latest.json](https://github.com/t8y2/dbx/releases/download/v0.6.24/latest.json) | 17.2 KiB | `other` |
+| [DBX-0.6.26-1.x86_64.rpm](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX-0.6.26-1.x86_64.rpm) | 37.9 MiB | `runtime/rpm/x86_64` |
+| [dbx-jdbc-plugin-0.1.40.zip](https://github.com/t8y2/dbx/releases/download/v0.6.26/dbx-jdbc-plugin-0.1.40.zip) | 9.2 MiB | `other` |
+| [dbx-jdbc-plugin-latest.zip](https://github.com/t8y2/dbx/releases/download/v0.6.26/dbx-jdbc-plugin-latest.zip) | 9.2 MiB | `other` |
+| [dbx-web_0.6.26_x86_64-browser-static.zip](https://github.com/t8y2/dbx/releases/download/v0.6.26/dbx-web_0.6.26_x86_64-browser-static.zip) | 31.8 MiB | `other` |
+| [dbx-web_0.6.26_x86_64-browser-static.zip.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.26/dbx-web_0.6.26_x86_64-browser-static.zip.sha256) | 66 B | `other` |
+| [DBX_0.6.26_amd64.AppImage](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_amd64.AppImage) | 109.4 MiB | `other` |
+| [DBX_0.6.26_amd64.deb](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_amd64.deb) | 37.9 MiB | `runtime/deb/amd64` |
+| [DBX_0.6.26_arm64-browser-static.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64-browser-static.tar.gz) | 31.8 MiB | `native/linux/arm64` |
+| [DBX_0.6.26_arm64-browser-static.tar.gz.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64-browser-static.tar.gz.sha256) | 105 B | `other` |
+| [DBX_0.6.26_arm64-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64-offline-setup.exe) | 204.8 MiB | `other` |
+| [DBX_0.6.26_arm64-portable.zip](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64-portable.zip) | 32.4 MiB | `other` |
+| [DBX_0.6.26_arm64-portable.zip.sig](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64-portable.zip.sig) | 420 B | `other` |
+| [DBX_0.6.26_arm64-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64-setup.exe) | 23.3 MiB | `other` |
+| [DBX_0.6.26_arm64.app.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64.app.tar.gz) | 35.2 MiB | `native/linux/arm64` |
+| [DBX_0.6.26_arm64.AppImage](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64.AppImage) | 106.3 MiB | `other` |
+| [DBX_0.6.26_arm64.deb](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64.deb) | 36.4 MiB | `runtime/deb/arm64` |
+| [DBX_0.6.26_arm64.dmg](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64.dmg) | 35.0 MiB | `other` |
+| [DBX_0.6.26_arm64.rpm](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64.rpm) | 36.4 MiB | `other` |
+| [DBX_0.6.26_arm64_en-US.msi](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_arm64_en-US.msi) | 31.9 MiB | `other` |
+| [DBX_0.6.26_x64-browser-static.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64-browser-static.tar.gz) | 33.3 MiB | `native/unknown` |
+| [DBX_0.6.26_x64-browser-static.tar.gz.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64-browser-static.tar.gz.sha256) | 103 B | `other` |
+| [DBX_0.6.26_x64-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64-offline-setup.exe) | 230.5 MiB | `other` |
+| [DBX_0.6.26_x64-portable.zip](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64-portable.zip) | 34.0 MiB | `other` |
+| [DBX_0.6.26_x64-portable.zip.sig](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64-portable.zip.sig) | 416 B | `other` |
+| [DBX_0.6.26_x64-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64-setup.exe) | 25.5 MiB | `other` |
+| [DBX_0.6.26_x64-win7-server2012r2-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64-win7-server2012r2-offline-setup.exe) | 172.3 MiB | `other` |
+| [DBX_0.6.26_x64-win7-server2012r2-offline-setup.exe.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64-win7-server2012r2-offline-setup.exe.sha256) | 118 B | `other` |
+| [DBX_0.6.26_x64.dmg](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64.dmg) | 38.2 MiB | `other` |
+| [DBX_0.6.26_x64_en-US.msi](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_0.6.26_x64_en-US.msi) | 33.6 MiB | `other` |
+| [DBX_x64.app.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.26/DBX_x64.app.tar.gz) | 38.1 MiB | `native/unknown` |
+| [latest.json](https://github.com/t8y2/dbx/releases/download/v0.6.26/latest.json) | 14.1 KiB | `other` |
 
 ## 改进这些数据
 
@@ -100,4 +100,4 @@ dbx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260927.yml` · 2026-09-27T06:15:58Z._
+_数据快照: `data/card/260928.yml` · 2026-09-28T06:28:00Z._
