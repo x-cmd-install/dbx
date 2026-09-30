@@ -14,15 +14,15 @@ x install dbx
 
 ## Code insight
 
-Total: **1,489,669** lines of code across **4595** files in the top 5 languages.
+Total: **1,497,943** lines of code across **4627** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 593,761 | 10,718 | 47,278 | 880 |
-| TypeScript | 576,786 | 20,215 | 56,279 | 2769 |
-| Go | 153,843 | 3,884 | 12,982 | 256 |
-| Java | 65,905 | 1,329 | 6,493 | 173 |
-| Vue | 24,147 | 302 | 1,567 | 517 |
+| Rust | 595,387 | 10,813 | 47,393 | 881 |
+| TypeScript | 581,907 | 20,927 | 56,909 | 2795 |
+| Go | 154,870 | 3,884 | 13,060 | 261 |
+| Java | 66,111 | 1,336 | 6,514 | 173 |
+| Vue | 24,237 | 307 | 1,571 | 517 |
 
 ## Source
 
@@ -32,66 +32,66 @@ Total: **1,489,669** lines of code across **4595** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `packages-v0.4.101` (2026-09-28)
-- **Last commit**: 2026-09-29
+- **Latest**: `v0.6.28` (2026-09-29)
+- **Last commit**: 2026-09-30
 - **Assets in release**: 33
 
 ## Popularity
 
-- **Stars**: 21,541 · **Forks**: 2,063 · **Open issues**: 6,832 · **Contributors**: 293
+- **Stars**: 22,444 · **Forks**: 2,103 · **Open issues**: 6,922 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 303 · **Merged PRs**: 3346 · **Open PRs**: 61 · **Closed issues**: 5643 · **Open issues**: 1189 · **Commits**: 7521
+- **Releases**: 306 · **Merged PRs**: 3381 · **Open PRs**: 64 · **Closed issues**: 5684 · **Open issues**: 1238 · **Commits**: 7573
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 83 | 1132 | 40 | 1183 | 578 | 1490 |
-| last60d | 2026-07-31 | 99 | 1955 | 54 | 2488 | 840 | 3054 |
-| 90d | 2026-07-01 | 99 | 2818 | 60 | 4008 | 1080 | 4600 |
-| last180d | 2026-04-02 | 100 | 3346 | 61 | 5643 | 1189 | 7440 |
-| 360d | 2025-10-04 | 100 | 3346 | 61 | 5643 | 1189 | 7440 |
-| last720d | 2024-10-09 | 100 | 3346 | 61 | 5643 | 1189 | 7521 |
+| 30d | 2026-08-31 | 86 | 1137 | 43 | 1179 | 611 | 1542 |
+| last60d | 2026-08-01 | 99 | 1967 | 57 | 2515 | 884 | 3106 |
+| 90d | 2026-07-02 | 99 | 2815 | 63 | 3991 | 1124 | 4652 |
+| last180d | 2026-04-03 | 100 | 3381 | 64 | 5684 | 1238 | 7492 |
+| 360d | 2025-10-05 | 100 | 3381 | 64 | 5684 | 1238 | 7492 |
+| last720d | 2024-10-10 | 100 | 3381 | 64 | 5684 | 1238 | 7573 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [DBX-0.6.27-1.x86_64.rpm](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX-0.6.27-1.x86_64.rpm) | 39.1 MiB | `runtime/rpm/x86_64` |
-| [dbx-jdbc-plugin-0.1.40.zip](https://github.com/t8y2/dbx/releases/download/v0.6.27/dbx-jdbc-plugin-0.1.40.zip) | 9.2 MiB | `other` |
-| [dbx-jdbc-plugin-latest.zip](https://github.com/t8y2/dbx/releases/download/v0.6.27/dbx-jdbc-plugin-latest.zip) | 9.2 MiB | `other` |
-| [dbx-web_0.6.27_x86_64-browser-static.zip](https://github.com/t8y2/dbx/releases/download/v0.6.27/dbx-web_0.6.27_x86_64-browser-static.zip) | 33.2 MiB | `other` |
-| [dbx-web_0.6.27_x86_64-browser-static.zip.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.27/dbx-web_0.6.27_x86_64-browser-static.zip.sha256) | 66 B | `other` |
-| [DBX_0.6.27_amd64.AppImage](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_amd64.AppImage) | 110.6 MiB | `other` |
-| [DBX_0.6.27_amd64.deb](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_amd64.deb) | 39.1 MiB | `runtime/deb/amd64` |
-| [DBX_0.6.27_arm64-browser-static.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64-browser-static.tar.gz) | 33.1 MiB | `native/linux/arm64` |
-| [DBX_0.6.27_arm64-browser-static.tar.gz.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64-browser-static.tar.gz.sha256) | 105 B | `other` |
-| [DBX_0.6.27_arm64-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64-offline-setup.exe) | 205.9 MiB | `other` |
-| [DBX_0.6.27_arm64-portable.zip](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64-portable.zip) | 33.6 MiB | `other` |
-| [DBX_0.6.27_arm64-portable.zip.sig](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64-portable.zip.sig) | 420 B | `other` |
-| [DBX_0.6.27_arm64-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64-setup.exe) | 24.4 MiB | `other` |
-| [DBX_0.6.27_arm64.app.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64.app.tar.gz) | 36.4 MiB | `native/linux/arm64` |
-| [DBX_0.6.27_arm64.AppImage](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64.AppImage) | 107.4 MiB | `other` |
-| [DBX_0.6.27_arm64.deb](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64.deb) | 37.6 MiB | `runtime/deb/arm64` |
-| [DBX_0.6.27_arm64.dmg](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64.dmg) | 36.3 MiB | `other` |
-| [DBX_0.6.27_arm64.rpm](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64.rpm) | 37.6 MiB | `other` |
-| [DBX_0.6.27_arm64_en-US.msi](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_arm64_en-US.msi) | 33.1 MiB | `other` |
-| [DBX_0.6.27_fnos.fpk](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_fnos.fpk) | 79.3 KiB | `other` |
-| [DBX_0.6.27_fnos.fpk.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_fnos.fpk.sha256) | 86 B | `other` |
-| [DBX_0.6.27_x64-browser-static.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64-browser-static.tar.gz) | 34.6 MiB | `native/unknown` |
-| [DBX_0.6.27_x64-browser-static.tar.gz.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64-browser-static.tar.gz.sha256) | 103 B | `other` |
-| [DBX_0.6.27_x64-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64-offline-setup.exe) | 231.7 MiB | `other` |
-| [DBX_0.6.27_x64-portable.zip](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64-portable.zip) | 35.2 MiB | `other` |
-| [DBX_0.6.27_x64-portable.zip.sig](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64-portable.zip.sig) | 416 B | `other` |
-| [DBX_0.6.27_x64-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64-setup.exe) | 26.7 MiB | `other` |
-| [DBX_0.6.27_x64-win7-server2012r2-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64-win7-server2012r2-offline-setup.exe) | 173.5 MiB | `other` |
-| [DBX_0.6.27_x64-win7-server2012r2-offline-setup.exe.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64-win7-server2012r2-offline-setup.exe.sha256) | 118 B | `other` |
-| [DBX_0.6.27_x64.dmg](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64.dmg) | 39.4 MiB | `other` |
-| [DBX_0.6.27_x64_en-US.msi](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_0.6.27_x64_en-US.msi) | 34.9 MiB | `other` |
-| [DBX_x64.app.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.27/DBX_x64.app.tar.gz) | 39.4 MiB | `native/unknown` |
-| [latest.json](https://github.com/t8y2/dbx/releases/download/v0.6.27/latest.json) | 19.1 KiB | `other` |
+| [DBX-0.6.28-1.x86_64.rpm](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX-0.6.28-1.x86_64.rpm) | 39.2 MiB | `runtime/rpm/x86_64` |
+| [dbx-jdbc-plugin-0.1.41.zip](https://github.com/t8y2/dbx/releases/download/v0.6.28/dbx-jdbc-plugin-0.1.41.zip) | 9.2 MiB | `other` |
+| [dbx-jdbc-plugin-latest.zip](https://github.com/t8y2/dbx/releases/download/v0.6.28/dbx-jdbc-plugin-latest.zip) | 9.2 MiB | `other` |
+| [dbx-web_0.6.28_x86_64-browser-static.zip](https://github.com/t8y2/dbx/releases/download/v0.6.28/dbx-web_0.6.28_x86_64-browser-static.zip) | 33.3 MiB | `other` |
+| [dbx-web_0.6.28_x86_64-browser-static.zip.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.28/dbx-web_0.6.28_x86_64-browser-static.zip.sha256) | 66 B | `other` |
+| [DBX_0.6.28_amd64.AppImage](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_amd64.AppImage) | 110.7 MiB | `other` |
+| [DBX_0.6.28_amd64.deb](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_amd64.deb) | 39.2 MiB | `runtime/deb/amd64` |
+| [DBX_0.6.28_arm64-browser-static.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64-browser-static.tar.gz) | 33.2 MiB | `native/linux/arm64` |
+| [DBX_0.6.28_arm64-browser-static.tar.gz.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64-browser-static.tar.gz.sha256) | 105 B | `other` |
+| [DBX_0.6.28_arm64-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64-offline-setup.exe) | 206.0 MiB | `other` |
+| [DBX_0.6.28_arm64-portable.zip](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64-portable.zip) | 33.7 MiB | `other` |
+| [DBX_0.6.28_arm64-portable.zip.sig](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64-portable.zip.sig) | 420 B | `other` |
+| [DBX_0.6.28_arm64-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64-setup.exe) | 24.5 MiB | `other` |
+| [DBX_0.6.28_arm64.app.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64.app.tar.gz) | 36.5 MiB | `native/linux/arm64` |
+| [DBX_0.6.28_arm64.AppImage](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64.AppImage) | 107.5 MiB | `other` |
+| [DBX_0.6.28_arm64.deb](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64.deb) | 37.7 MiB | `runtime/deb/arm64` |
+| [DBX_0.6.28_arm64.dmg](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64.dmg) | 36.3 MiB | `other` |
+| [DBX_0.6.28_arm64.rpm](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64.rpm) | 37.7 MiB | `other` |
+| [DBX_0.6.28_arm64_en-US.msi](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_arm64_en-US.msi) | 33.2 MiB | `other` |
+| [DBX_0.6.28_fnos.fpk](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_fnos.fpk) | 79.3 KiB | `other` |
+| [DBX_0.6.28_fnos.fpk.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_fnos.fpk.sha256) | 86 B | `other` |
+| [DBX_0.6.28_x64-browser-static.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64-browser-static.tar.gz) | 34.7 MiB | `native/unknown` |
+| [DBX_0.6.28_x64-browser-static.tar.gz.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64-browser-static.tar.gz.sha256) | 103 B | `other` |
+| [DBX_0.6.28_x64-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64-offline-setup.exe) | 231.7 MiB | `other` |
+| [DBX_0.6.28_x64-portable.zip](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64-portable.zip) | 35.3 MiB | `other` |
+| [DBX_0.6.28_x64-portable.zip.sig](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64-portable.zip.sig) | 416 B | `other` |
+| [DBX_0.6.28_x64-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64-setup.exe) | 26.7 MiB | `other` |
+| [DBX_0.6.28_x64-win7-server2012r2-offline-setup.exe](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64-win7-server2012r2-offline-setup.exe) | 173.5 MiB | `other` |
+| [DBX_0.6.28_x64-win7-server2012r2-offline-setup.exe.sha256](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64-win7-server2012r2-offline-setup.exe.sha256) | 118 B | `other` |
+| [DBX_0.6.28_x64.dmg](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64.dmg) | 39.5 MiB | `other` |
+| [DBX_0.6.28_x64_en-US.msi](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_0.6.28_x64_en-US.msi) | 35.0 MiB | `other` |
+| [DBX_x64.app.tar.gz](https://github.com/t8y2/dbx/releases/download/v0.6.28/DBX_x64.app.tar.gz) | 39.5 MiB | `native/unknown` |
+| [latest.json](https://github.com/t8y2/dbx/releases/download/v0.6.28/latest.json) | 18.4 KiB | `other` |
 
 ## Improve this data
 
@@ -102,4 +102,4 @@ Install metadata for dbx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:48:56Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:36:16Z._
