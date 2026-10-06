@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 41768807,
       "digest": "sha256:26f307b05d73c2bdee62aa93027ba1e4f27d882a896ba68db43b5e9c4f89060d",
-      "download_count": 26,
+      "download_count": 45,
       "created_at": "2026-10-04T20:53:14Z",
       "updated_at": "2026-10-04T20:53:15Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX-0.6.34-1.x86_64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9641176,
       "digest": "sha256:20a73c6fb04006a5f0a1bdad24860ad7bc15ec4dbf58615422c4c62dc31322e9",
-      "download_count": 21,
+      "download_count": 46,
       "created_at": "2026-10-04T21:47:05Z",
       "updated_at": "2026-10-04T21:47:06Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/dbx-jdbc-plugin-0.1.43.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9641176,
       "digest": "sha256:20a73c6fb04006a5f0a1bdad24860ad7bc15ec4dbf58615422c4c62dc31322e9",
-      "download_count": 118,
+      "download_count": 400,
       "created_at": "2026-10-04T21:47:05Z",
       "updated_at": "2026-10-04T21:47:05Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/dbx-jdbc-plugin-latest.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 35576777,
       "digest": "sha256:bd4adfcba9e0c0a981ac9a1e5532089647d6b970397b675592cb4e4bb8e53815",
-      "download_count": 24,
+      "download_count": 74,
       "created_at": "2026-10-04T21:24:52Z",
       "updated_at": "2026-10-04T21:24:53Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/dbx-web_0.6.34_x86_64-browser-static.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 66,
       "digest": "sha256:fda542e61b6a116158385e14b60fd02b5350f42efe8bd3a105279a9ac2a7bceb",
-      "download_count": 12,
+      "download_count": 21,
       "created_at": "2026-10-04T21:24:52Z",
       "updated_at": "2026-10-04T21:24:52Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/dbx-web_0.6.34_x86_64-browser-static.zip.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 116636152,
       "digest": "sha256:de67be80173fc5c4725c7306d6820da8039e92d530f87d41445d591ad01263fe",
-      "download_count": 37,
+      "download_count": 121,
       "created_at": "2026-10-04T20:53:16Z",
       "updated_at": "2026-10-04T20:53:19Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_amd64.AppImage"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 41767958,
       "digest": "sha256:fcf4b29c413d706e280c6e0634b219e7ca1c1c6bc17484059f5a564f49f94976",
-      "download_count": 110,
+      "download_count": 335,
       "created_at": "2026-10-04T20:53:11Z",
       "updated_at": "2026-10-04T20:53:13Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_amd64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 35463059,
       "digest": "sha256:d80d1381db1aa187874c79ca243cc78fe86f617ffedd8c67fd813aff9e5b5a97",
-      "download_count": 26,
+      "download_count": 46,
       "created_at": "2026-10-04T20:51:13Z",
       "updated_at": "2026-10-04T20:51:14Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64-browser-static.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:44956a3700a255e2dbe0983f64d377d400560de47f63784bdc4a0f2fc6220869",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-10-04T20:51:13Z",
       "updated_at": "2026-10-04T20:51:13Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64-browser-static.tar.gz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 216552448,
       "digest": "sha256:298507b677c1bb40e19b4ac97b6118bd4b5bc1953a0112ada1de2da260b7dff7",
-      "download_count": 34,
+      "download_count": 97,
       "created_at": "2026-10-04T21:25:34Z",
       "updated_at": "2026-10-04T21:25:40Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64-offline-setup.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 35920832,
       "digest": "sha256:fd90ef1b61fe8dd6d1441a5bf44cacbe30022d00b9dd7c5261df5fdb2c60fcfd",
-      "download_count": 24,
+      "download_count": 54,
       "created_at": "2026-10-04T21:25:47Z",
       "updated_at": "2026-10-04T21:25:49Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64-portable.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 420,
       "digest": "sha256:9bc1ed8eb07daa45f276ab49408bdceedefe5b9ceb7515b39f60d9e50cde8898",
-      "download_count": 12,
+      "download_count": 20,
       "created_at": "2026-10-04T21:25:47Z",
       "updated_at": "2026-10-04T21:25:47Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64-portable.zip.sig"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 26218168,
       "digest": "sha256:e711c06633fb4cc896822fc74078ec3f581bec1c8eaa7210797426822544b347",
-      "download_count": 32,
+      "download_count": 58,
       "created_at": "2026-10-04T21:23:10Z",
       "updated_at": "2026-10-04T21:23:11Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64-setup.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 38897904,
       "digest": "sha256:74600757186c6989b90a7d7c3d15a6caab1015bdc25345d125b4cbccd11fc7bc",
-      "download_count": 88,
+      "download_count": 244,
       "created_at": "2026-10-04T20:49:26Z",
       "updated_at": "2026-10-04T20:49:28Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64.app.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 113306120,
       "digest": "sha256:f0514b6a38a6fe7288b0434fa76aa53e7ddaf9c8d51ccc51c889cbfb197f5180",
-      "download_count": 20,
+      "download_count": 33,
       "created_at": "2026-10-04T21:00:09Z",
       "updated_at": "2026-10-04T21:00:14Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64.AppImage"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 40174658,
       "digest": "sha256:c17fe73011cb131a9c3d521682653c19f01e9816c59182f66d211a6253476230",
-      "download_count": 24,
+      "download_count": 41,
       "created_at": "2026-10-04T21:00:03Z",
       "updated_at": "2026-10-04T21:00:06Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 38706124,
       "digest": "sha256:26475cd41f6a369a10eadbf0af25030e4464c9f5a6ac141fcc824f82cd12cf6f",
-      "download_count": 361,
+      "download_count": 1347,
       "created_at": "2026-10-04T20:49:24Z",
       "updated_at": "2026-10-04T20:49:25Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64.dmg"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 40175466,
       "digest": "sha256:d7429dc757b04d824a2eb3bafdfbea5f1e28f665c49792cc00237d8cd5d5a827",
-      "download_count": 20,
+      "download_count": 25,
       "created_at": "2026-10-04T21:00:06Z",
       "updated_at": "2026-10-04T21:00:08Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64.rpm"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 35434496,
       "digest": "sha256:ba4e34ef3d89208b41ce8bcc13c334b129c02f8551b10523b554bca5594885ac",
-      "download_count": 23,
+      "download_count": 39,
       "created_at": "2026-10-04T21:23:08Z",
       "updated_at": "2026-10-04T21:23:09Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_arm64_en-US.msi"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 81208,
       "digest": "sha256:bbfebbbcb26d7225ff69fbe40f615164e06119f6ac05dc07a701150e36d1bd7a",
-      "download_count": 11,
+      "download_count": 18,
       "created_at": "2026-10-04T21:02:02Z",
       "updated_at": "2026-10-04T21:02:02Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_fnos.fpk"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 86,
       "digest": "sha256:554102b74a315fd90875e8970bb9fce8a9c75a8b91300843246338812ed87bbf",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-10-04T21:01:59Z",
       "updated_at": "2026-10-04T21:01:59Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_fnos.fpk.sha256"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 37061386,
       "digest": "sha256:e85a8ae3b85b16234f6dee9efdc645b90ef9b45a299c9e23a55d19eb1a45dc79",
-      "download_count": 23,
+      "download_count": 43,
       "created_at": "2026-10-04T20:52:11Z",
       "updated_at": "2026-10-04T20:52:12Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64-browser-static.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:a0c3f9dd50a739b34b9229d964485a8f0e0f422202ecf9be09660dc8e1d0641f",
-      "download_count": 11,
+      "download_count": 20,
       "created_at": "2026-10-04T20:52:11Z",
       "updated_at": "2026-10-04T20:52:11Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64-browser-static.tar.gz.sha256"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 243646160,
       "digest": "sha256:4943e4b535a9284d09a2feeeade694d12f52fe1c4d1812e3dd9cec7d438b0845",
-      "download_count": 32,
+      "download_count": 173,
       "created_at": "2026-10-04T21:18:14Z",
       "updated_at": "2026-10-04T21:18:20Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64-offline-setup.exe"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 37657136,
       "digest": "sha256:db949a0b3eeee29674a6fce976eb7f785160e63d827b93a985d247d6b65543d3",
-      "download_count": 214,
+      "download_count": 556,
       "created_at": "2026-10-04T21:18:27Z",
       "updated_at": "2026-10-04T21:18:28Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64-portable.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:3114a466799390b98db32bcaaf9926a1c61238e7c185a036cdbdd90c7214a8ef",
-      "download_count": 38,
+      "download_count": 92,
       "created_at": "2026-10-04T21:18:27Z",
       "updated_at": "2026-10-04T21:18:27Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64-portable.zip.sig"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 28633312,
       "digest": "sha256:13362f73ed81b5988ebc6d7e6ec63aeb4a197647c706121ab9f1cf45efee0b7c",
-      "download_count": 444,
+      "download_count": 1080,
       "created_at": "2026-10-04T21:15:53Z",
       "updated_at": "2026-10-04T21:15:54Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64-setup.exe"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 182405488,
       "digest": "sha256:b6d1610ae05c951a9000a63d32668bcae68cdc134e37c2fae5a818d429e110c0",
-      "download_count": 28,
+      "download_count": 49,
       "created_at": "2026-10-04T21:45:02Z",
       "updated_at": "2026-10-04T21:45:06Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64-win7-server2012r2-offline-setup.exe"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 118,
       "digest": "sha256:6ea54ae59dfbbf774399bd131a8690401636a89a6f7fefcb991b8159dbe653d5",
-      "download_count": 16,
+      "download_count": 23,
       "created_at": "2026-10-04T21:45:02Z",
       "updated_at": "2026-10-04T21:45:02Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64-win7-server2012r2-offline-setup.exe.sha256"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 42080981,
       "digest": "sha256:f561514f382750d3edccb22dc28f54ee13a9a8514575b3a4384a067e820768bb",
-      "download_count": 37,
+      "download_count": 94,
       "created_at": "2026-10-04T21:12:10Z",
       "updated_at": "2026-10-04T21:12:13Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64.dmg"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 37289984,
       "digest": "sha256:81e0568a0a1333e0d169c3f3fb7c34ffefdd1298cfde8f9e7162c00f6a994a3f",
-      "download_count": 40,
+      "download_count": 88,
       "created_at": "2026-10-04T21:15:51Z",
       "updated_at": "2026-10-04T21:15:52Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_0.6.34_x64_en-US.msi"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 42030245,
       "digest": "sha256:56e0bb5e8235f2de203aa3fc23a3482cee59f3dc080a6e868af5532af7d49352",
-      "download_count": 31,
+      "download_count": 56,
       "created_at": "2026-10-04T21:12:13Z",
       "updated_at": "2026-10-04T21:12:15Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/DBX_x64.app.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 18157,
       "digest": "sha256:165f1b09ebf1237d7af621c095a694b81d35dc98eb3dcd13a92fcfc0fc2d7708",
-      "download_count": 4439,
+      "download_count": 17609,
       "created_at": "2026-10-04T21:56:05Z",
       "updated_at": "2026-10-04T21:56:06Z",
       "browser_download_url": "https://github.com/t8y2/dbx/releases/download/v0.6.34/latest.json"
