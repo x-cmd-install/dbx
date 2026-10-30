@@ -2,35 +2,35 @@ about:
   description: "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
   license: Apache-2.0
   homepage: https://dbxio.com
-  head: 417c1bf
+  head: 493ddf9
   archived: false
   latestVersion: "v0.6.61"
   latestRelease: "v0.6.61"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:52:15Z
+  collectedAt: 2026-10-30T06:55:25Z
 timeline:
   created: 2026-04-29
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 2026-10-29
   lastRelease: 2026-10-29
   lastPrerelease: 
 popularity:
-  star: 28111
-  watcher: 95
-  fork: 2551
+  star: 28217
+  watcher: 91
+  fork: 2568
   release: 401
-  contributor: 380
-  pullRequest: 5221
-  issue: 8439
+  contributor: 381
+  pullRequest: 5265
+  issue: 8485
 language:
-  Rust: 33079760
-  TypeScript: 25933941
-  Vue: 13463476
-  Go: 5668004
-  Java: 5462000
+  Rust: 33130109
+  TypeScript: 26038228
+  Vue: 13495704
+  Go: 5700318
+  Java: 5499716
   JavaScript: 464361
   Python: 212021
-  CSS: 176611
+  CSS: 176404
   HTML: 101669
   NSIS: 46215
   Shell: 35447
@@ -43,92 +43,92 @@ language:
   Svelte: 2031
   C: 1316
   Ruby: 1124
-totalBytes: 84719467
+totalBytes: 84976154
 recent:
   last30d:
-    since: 2026-09-29
-    release: 98
-    mergedPR: 1291
-    openPR: 113
-    closedIssue: 1023
-    openIssue: 559
-    commit: 0
+    since: 2026-09-30
+    release: 95
+    mergedPR: 1270
+    openPR: 115
+    closedIssue: 971
+    openIssue: 567
+    commit: 1604
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 99
-    mergedPR: 2468
-    openPR: 124
-    closedIssue: 2471
-    openIssue: 898
-    commit: 0
+    mergedPR: 2466
+    openPR: 135
+    closedIssue: 2446
+    openIssue: 907
+    commit: 3341
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 99
-    mergedPR: 3292
-    openPR: 134
-    closedIssue: 3831
-    openIssue: 1104
-    commit: 0
+    mergedPR: 3297
+    openPR: 144
+    closedIssue: 3837
+    openIssue: 1125
+    commit: 4868
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 100
-    mergedPR: 4641
-    openPR: 140
-    closedIssue: 7110
-    openIssue: 1306
-    commit: 0
+    mergedPR: 4667
+    openPR: 150
+    closedIssue: 7133
+    openIssue: 1328
+    commit: 8927
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
-    mergedPR: 4681
-    openPR: 140
-    closedIssue: 7133
-    openIssue: 1306
-    commit: 0
+    mergedPR: 4709
+    openPR: 150
+    closedIssue: 7157
+    openIssue: 1328
+    commit: 9174
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 4681
-    openPR: 140
-    closedIssue: 7133
-    openIssue: 1306
-    commit: 9232
+    mergedPR: 4709
+    openPR: 150
+    closedIssue: 7157
+    openIssue: 1328
+    commit: 9264
 total:
   release: 401
-  mergedPR: 4681
-  openPR: 140
-  closedIssue: 7133
-  openIssue: 1306
-  commit: 9232
+  mergedPR: 4711
+  openPR: 150
+  closedIssue: 7157
+  openIssue: 1328
+  commit: 9264
 ---
 path: /home/runner/.x-repo/github.com/t8y2/dbx
-collectedAt: 2026-10-29T06:53:04Z
+collectedAt: 2026-10-30T06:56:09Z
 loc:
   TypeScript:
-    code: 849756
-    comments: 30349
-    blanks: 75671
-    files: 3663
+    code: 852826
+    comments: 30473
+    blanks: 75851
+    files: 3684
   Rust:
-    code: 783306
-    comments: 19452
-    blanks: 57542
-    files: 1141
+    code: 784210
+    comments: 19550
+    blanks: 57617
+    files: 1144
   Go:
-    code: 199385
-    comments: 7518
-    blanks: 15111
-    files: 427
+    code: 200219
+    comments: 7532
+    blanks: 15151
+    files: 431
   Java:
-    code: 106375
-    comments: 2469
-    blanks: 9913
-    files: 307
+    code: 107109
+    comments: 2535
+    blanks: 9845
+    files: 310
   Vue:
-    code: 29486
-    comments: 363
-    blanks: 1739
-    files: 580
+    code: 29510
+    comments: 366
+    blanks: 1741
+    files: 581
   Json:
     code: 25215
     comments: 0
@@ -145,9 +145,9 @@ loc:
     blanks: 767
     files: 86
   Css:
-    code: 6775
+    code: 6772
     comments: 412
-    blanks: 986
+    blanks: 985
     files: 12
   Tsx:
     code: 6277
@@ -251,8 +251,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 13016
-    blanks: 5436
+    comments: 13063
+    blanks: 5449
     files: 178
   Text:
     code: 0
@@ -260,11 +260,11 @@ loc:
     blanks: 67
     files: 5
 total:
-  code: 2279449
-  comments: 100143
-  blanks: 190533
-  files: 7049
+  code: 2285371
+  comments: 100569
+  blanks: 190783
+  files: 7081
 ---
 
 ---
-{"id":427378221,"author":{"login":"zipg","id":4047349,"node_id":"MDQ6VXNlcjQwNDczNDk=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSPdiBc4ZeUYt","tag_name":"v0.6.61","target_commitish":"f9f7dfed482bf7ea1b8e8ae0970f6919f7e41067","name":"DBX v0.6.61","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-29T01:48:00Z","updated_at":"2026-10-29T03:59:13Z","published_at":"2026-10-29T03:35:45Z","assets":[{"id":687098817,"node_id":"RA_kwDOSPdiBc4o9EvB","name":"DBX-0.6.61-1.x86_64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":48972172,"digest":"sha256:7c108206d2e13b82c3ebb8f91274d66cb70f22258ba269b98f224103dc4f4c8b","download_count":29,"created_at":"2026-10-29T02:27:11Z","updated_at":"2026-10-29T02:27:13Z"},{"id":687238127,"node_id":"RA_kwDOSPdiBc4o9mvv","name":"dbx-jdbc-plugin-0.1.50.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":9721771,"digest":"sha256:af9c8b3471f01c67224fc8f6a5c7fb61b37d56772bc098291bb580699c6b24fe","download_count":12,"created_at":"2026-10-29T03:35:32Z","updated_at":"2026-10-29T03:35:33Z"},{"id":687238123,"node_id":"RA_kwDOSPdiBc4o9mvr","name":"dbx-jdbc-plugin-latest.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":9721771,"digest":"sha256:af9c8b3471f01c67224fc8f6a5c7fb61b37d56772bc098291bb580699c6b24fe","download_count":72,"created_at":"2026-10-29T03:35:32Z","updated_at":"2026-10-29T03:35:33Z"},{"id":687270726,"node_id":"RA_kwDOSPdiBc4o9utG","name":"dbx-web_0.6.61_x86_64-browser-static.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":42265033,"digest":"sha256:e3271479fd3b1601af22e3bec8373681a378a5ecf97935bb2aa7b869dfe63a36","download_count":24,"created_at":"2026-10-29T03:51:35Z","updated_at":"2026-10-29T03:51:37Z"},{"id":687270725,"node_id":"RA_kwDOSPdiBc4o9utF","name":"dbx-web_0.6.61_x86_64-browser-static.zip.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":66,"digest":"sha256:092475edc5d3d11bde12b7769d02504183cdb35120887cab9b36de959ed48c8e","download_count":6,"created_at":"2026-10-29T03:51:35Z","updated_at":"2026-10-29T03:51:35Z"},{"id":687098976,"node_id":"RA_kwDOSPdiBc4o9Exg","name":"DBX_0.6.61_amd64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":123226616,"digest":"sha256:1b0afd9b7b6a3cdb279428de4a7dd6dcf21c84ee1e52907da6629f66ce05d951","download_count":41,"created_at":"2026-10-29T02:27:14Z","updated_at":"2026-10-29T02:27:19Z"},{"id":687098662,"node_id":"RA_kwDOSPdiBc4o9Esm","name":"DBX_0.6.61_amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":48974642,"digest":"sha256:d1ee28e8558bbf3b4ab634191ad40fdf405509eb0eb438b3242cf26a6ed7c1e9","download_count":67,"created_at":"2026-10-29T02:27:07Z","updated_at":"2026-10-29T02:27:09Z"},{"id":687128634,"node_id":"RA_kwDOSPdiBc4o9MA6","name":"DBX_0.6.61_arm64-browser-static.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":42317401,"digest":"sha256:e083b2f88c694034c9e9604238375a75a3b13267f83dd5b234f23f984f8aed21","download_count":25,"created_at":"2026-10-29T02:39:43Z","updated_at":"2026-10-29T02:39:44Z"},{"id":687128636,"node_id":"RA_kwDOSPdiBc4o9MA8","name":"DBX_0.6.61_arm64-browser-static.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:1ea2f92b681b14899be0eb5e819e8e4a83878d9fa621aa9adce1f12f45a51d72","download_count":7,"created_at":"2026-10-29T02:39:43Z","updated_at":"2026-10-29T02:39:43Z"},{"id":687183481,"node_id":"RA_kwDOSPdiBc4o9ZZ5","name":"DBX_0.6.61_arm64-offline-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":224102944,"digest":"sha256:0d533291586b3769c42bc13cddc8aad64868ead836c827470226cdcbe4ee349a","download_count":37,"created_at":"2026-10-29T03:08:10Z","updated_at":"2026-10-29T03:08:17Z"},{"id":687183964,"node_id":"RA_kwDOSPdiBc4o9Zhc","name":"DBX_0.6.61_arm64-portable.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":42425889,"digest":"sha256:d6710c44f67ef42c6cc05d1b281df89edf064ea4d119a4664a23ca4577165d4e","download_count":27,"created_at":"2026-10-29T03:08:25Z","updated_at":"2026-10-29T03:08:26Z"},{"id":687183962,"node_id":"RA_kwDOSPdiBc4o9Zha","name":"DBX_0.6.61_arm64-portable.zip.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":420,"digest":"sha256:7645bc55fc6c422cd2e8f383415f9724bfd94051ee5294656e16abd0cb39f368","download_count":6,"created_at":"2026-10-29T03:08:25Z","updated_at":"2026-10-29T03:08:25Z"},{"id":687178957,"node_id":"RA_kwDOSPdiBc4o9YTN","name":"DBX_0.6.61_arm64-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":31163488,"digest":"sha256:048a31e5b1f84076bad05afce07086d721f60124036f88b0da4fd852e4d1396d","download_count":27,"created_at":"2026-10-29T03:05:46Z","updated_at":"2026-10-29T03:05:47Z"},{"id":687183471,"node_id":"RA_kwDOSPdiBc4o9ZZv","name":"DBX_0.6.61_arm64.app.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":45445158,"digest":"sha256:a8bac208da7773c40e851d91d8a211c993b6fc0fa289c234a13601d84fc0ee60","download_count":442,"created_at":"2026-10-29T03:08:10Z","updated_at":"2026-10-29T03:08:12Z"},{"id":687139362,"node_id":"RA_kwDOSPdiBc4o9Ooi","name":"DBX_0.6.61_arm64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":119851528,"digest":"sha256:acde76fcb36ae19112aa0ab87a5ccb2d598d8abbed9bf4db7eccd7657eb41fa2","download_count":27,"created_at":"2026-10-29T02:45:27Z","updated_at":"2026-10-29T02:45:31Z"},{"id":687139251,"node_id":"RA_kwDOSPdiBc4o9Omz","name":"DBX_0.6.61_arm64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":47326664,"digest":"sha256:55414bfb61b2df16994666879bdba6e3e89d9886acdbee169fb8c3c8513624b0","download_count":25,"created_at":"2026-10-29T02:45:23Z","updated_at":"2026-10-29T02:45:25Z"},{"id":687183385,"node_id":"RA_kwDOSPdiBc4o9ZYZ","name":"DBX_0.6.61_arm64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":45117000,"digest":"sha256:c4a6109f81378a1997e916369dc191d9026b1d5108b1b3f063a7152676c80b25","download_count":65,"created_at":"2026-10-29T03:08:07Z","updated_at":"2026-10-29T03:08:09Z"},{"id":687139307,"node_id":"RA_kwDOSPdiBc4o9Onr","name":"DBX_0.6.61_arm64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":47327862,"digest":"sha256:34baf8a04ded041ddbe3883eb0a82021cfad00a86248bf77f26cdb228e2e4316","download_count":26,"created_at":"2026-10-29T02:45:25Z","updated_at":"2026-10-29T02:45:27Z"},{"id":687178869,"node_id":"RA_kwDOSPdiBc4o9YR1","name":"DBX_0.6.61_arm64_en-US.msi","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":41811968,"digest":"sha256:e6de31ac30c0bfa10ebfaf5985636993bc9c341f71f8c4486da4bf505af2f5ed","download_count":31,"created_at":"2026-10-29T03:05:44Z","updated_at":"2026-10-29T03:05:45Z"},{"id":687112340,"node_id":"RA_kwDOSPdiBc4o9ICU","name":"DBX_0.6.61_fnos.fpk","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":81208,"digest":"sha256:b7f317521b320196728a50f757af10ec8959def51f91222456a65b031c909740","download_count":6,"created_at":"2026-10-29T02:32:07Z","updated_at":"2026-10-29T02:32:08Z"},{"id":687112343,"node_id":"RA_kwDOSPdiBc4o9ICX","name":"DBX_0.6.61_fnos.fpk.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":86,"digest":"sha256:edec7af6c50f46e39af7ea8209eb638e7b215de221b799d62dedcf105f8cfc06","download_count":5,"created_at":"2026-10-29T02:32:07Z","updated_at":"2026-10-29T02:32:08Z"},{"id":687098080,"node_id":"RA_kwDOSPdiBc4o9Ejg","name":"DBX_0.6.61_x64-browser-static.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":44221990,"digest":"sha256:0d354b2ebf743ebb216561ef9bf4f842145f1b0b1f635680bf172c89b722acb5","download_count":26,"created_at":"2026-10-29T02:26:54Z","updated_at":"2026-10-29T02:26:55Z"},{"id":687098081,"node_id":"RA_kwDOSPdiBc4o9Ejh","name":"DBX_0.6.61_x64-browser-static.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":103,"digest":"sha256:584a0885084b80417cbd3a5769e8db8078f3a8f0f21de1f1392b6e19c86ccae5","download_count":7,"created_at":"2026-10-29T02:26:54Z","updated_at":"2026-10-29T02:26:54Z"},{"id":687166948,"node_id":"RA_kwDOSPdiBc4o9VXk","name":"DBX_0.6.61_x64-offline-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":251548624,"digest":"sha256:00ffbc6eefcf557a545d3889bcc4035e26e45c3c8ca30e7c31b63440f36cf2a1","download_count":61,"created_at":"2026-10-29T03:00:10Z","updated_at":"2026-10-29T03:00:21Z"},{"id":687167792,"node_id":"RA_kwDOSPdiBc4o9Vkw","name":"DBX_0.6.61_x64-portable.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":44503517,"digest":"sha256:0df53828b2b1fc6b154b9cbc2890ce16beec70bb053d9d3c958162d273caffe7","download_count":352,"created_at":"2026-10-29T03:00:30Z","updated_at":"2026-10-29T03:00:32Z"},{"id":687167790,"node_id":"RA_kwDOSPdiBc4o9Vku","name":"DBX_0.6.61_x64-portable.zip.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":416,"digest":"sha256:ad308762502917b4ac61885da532a9a3724cbbce6d259ca825691edf6a44bb73","download_count":201,"created_at":"2026-10-29T03:00:30Z","updated_at":"2026-10-29T03:00:30Z"},{"id":687161298,"node_id":"RA_kwDOSPdiBc4o9T_S","name":"DBX_0.6.61_x64-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":33878568,"digest":"sha256:7f27f8bb0d3dfbbbd3d370d0907562a9559d09d359c2a71d226746b07c031991","download_count":1369,"created_at":"2026-10-29T02:57:32Z","updated_at":"2026-10-29T02:57:34Z"},{"id":687228057,"node_id":"RA_kwDOSPdiBc4o9kSZ","name":"DBX_0.6.61_x64-win7-server2012r2-offline-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":187793736,"digest":"sha256:86a7a041d507e21701b4db83810f0ebfb62cb88323d9ebeb045acace354f7956","download_count":31,"created_at":"2026-10-29T03:30:16Z","updated_at":"2026-10-29T03:30:22Z"},{"id":687228055,"node_id":"RA_kwDOSPdiBc4o9kSX","name":"DBX_0.6.61_x64-win7-server2012r2-offline-setup.exe.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":118,"digest":"sha256:d54640ff96657c4a068bf091ae4284f63eacb38488298a32a9b8a5c951e4a000","download_count":5,"created_at":"2026-10-29T03:30:15Z","updated_at":"2026-10-29T03:30:16Z"},{"id":687217667,"node_id":"RA_kwDOSPdiBc4o9hwD","name":"DBX_0.6.61_x64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":49103566,"digest":"sha256:85f26b3aba7e9efecdf19beca3f1bd0e3f824a1edfde7988eb802f030beb450f","download_count":36,"created_at":"2026-10-29T03:25:19Z","updated_at":"2026-10-29T03:25:22Z"},{"id":687161208,"node_id":"RA_kwDOSPdiBc4o9T94","name":"DBX_0.6.61_x64_en-US.msi","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":44036096,"digest":"sha256:04652d7a0ac91c2dbe42d0829a748005a1601905464d8b204b1606b42dda18fa","download_count":58,"created_at":"2026-10-29T02:57:28Z","updated_at":"2026-10-29T02:57:31Z"},{"id":687217786,"node_id":"RA_kwDOSPdiBc4o9hx6","name":"DBX_x64.app.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":49147719,"digest":"sha256:4111d966ab1db8a95838d0e9e5da771120dd7ccc64b2a62b7a68b9755a713d62","download_count":83,"created_at":"2026-10-29T03:25:23Z","updated_at":"2026-10-29T03:25:25Z"},{"id":687286764,"node_id":"RA_kwDOSPdiBc4o9yns","name":"latest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":10746,"digest":"sha256:15acdc198dc939a6c4c1778ef4016dba898b3c3e27ebbbc53d5d542fa468e0ad","download_count":3621,"created_at":"2026-10-29T03:59:13Z","updated_at":"2026-10-29T03:59:13Z"}],"body":"v0.6.61 为 v0.6.60 的紧急修复版本，包含 v0.6.60 的其他更新。\n\n### 修复\n\n- 回退插件工作台非活动标签页布局保留改动，恢复此前的标签页挂载和切换行为 (contributed by @eryajf) (PR [#13831](https://github.com/t8y2/dbx/pull/13831))\n\n[查看自 v0.6.59 以来的全部变更](https://github.com/t8y2/dbx/compare/v0.6.59...v0.6.61)\n","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0},"mentions_count":1}
+{"id":427378221,"author":{"login":"zipg","id":4047349,"node_id":"MDQ6VXNlcjQwNDczNDk=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSPdiBc4ZeUYt","tag_name":"v0.6.61","target_commitish":"f9f7dfed482bf7ea1b8e8ae0970f6919f7e41067","name":"DBX v0.6.61","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-29T01:48:00Z","updated_at":"2026-10-29T03:59:13Z","published_at":"2026-10-29T03:35:45Z","assets":[{"id":687098817,"node_id":"RA_kwDOSPdiBc4o9EvB","name":"DBX-0.6.61-1.x86_64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":48972172,"digest":"sha256:7c108206d2e13b82c3ebb8f91274d66cb70f22258ba269b98f224103dc4f4c8b","download_count":103,"created_at":"2026-10-29T02:27:11Z","updated_at":"2026-10-29T02:27:13Z"},{"id":687238127,"node_id":"RA_kwDOSPdiBc4o9mvv","name":"dbx-jdbc-plugin-0.1.50.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":9721771,"digest":"sha256:af9c8b3471f01c67224fc8f6a5c7fb61b37d56772bc098291bb580699c6b24fe","download_count":47,"created_at":"2026-10-29T03:35:32Z","updated_at":"2026-10-29T03:35:33Z"},{"id":687238123,"node_id":"RA_kwDOSPdiBc4o9mvr","name":"dbx-jdbc-plugin-latest.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":9721771,"digest":"sha256:af9c8b3471f01c67224fc8f6a5c7fb61b37d56772bc098291bb580699c6b24fe","download_count":387,"created_at":"2026-10-29T03:35:32Z","updated_at":"2026-10-29T03:35:33Z"},{"id":687270726,"node_id":"RA_kwDOSPdiBc4o9utG","name":"dbx-web_0.6.61_x86_64-browser-static.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":42265033,"digest":"sha256:e3271479fd3b1601af22e3bec8373681a378a5ecf97935bb2aa7b869dfe63a36","download_count":102,"created_at":"2026-10-29T03:51:35Z","updated_at":"2026-10-29T03:51:37Z"},{"id":687270725,"node_id":"RA_kwDOSPdiBc4o9utF","name":"dbx-web_0.6.61_x86_64-browser-static.zip.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":66,"digest":"sha256:092475edc5d3d11bde12b7769d02504183cdb35120887cab9b36de959ed48c8e","download_count":23,"created_at":"2026-10-29T03:51:35Z","updated_at":"2026-10-29T03:51:35Z"},{"id":687098976,"node_id":"RA_kwDOSPdiBc4o9Exg","name":"DBX_0.6.61_amd64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":123226616,"digest":"sha256:1b0afd9b7b6a3cdb279428de4a7dd6dcf21c84ee1e52907da6629f66ce05d951","download_count":136,"created_at":"2026-10-29T02:27:14Z","updated_at":"2026-10-29T02:27:19Z"},{"id":687098662,"node_id":"RA_kwDOSPdiBc4o9Esm","name":"DBX_0.6.61_amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":48974642,"digest":"sha256:d1ee28e8558bbf3b4ab634191ad40fdf405509eb0eb438b3242cf26a6ed7c1e9","download_count":378,"created_at":"2026-10-29T02:27:07Z","updated_at":"2026-10-29T02:27:09Z"},{"id":687128634,"node_id":"RA_kwDOSPdiBc4o9MA6","name":"DBX_0.6.61_arm64-browser-static.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":42317401,"digest":"sha256:e083b2f88c694034c9e9604238375a75a3b13267f83dd5b234f23f984f8aed21","download_count":63,"created_at":"2026-10-29T02:39:43Z","updated_at":"2026-10-29T02:39:44Z"},{"id":687128636,"node_id":"RA_kwDOSPdiBc4o9MA8","name":"DBX_0.6.61_arm64-browser-static.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":105,"digest":"sha256:1ea2f92b681b14899be0eb5e819e8e4a83878d9fa621aa9adce1f12f45a51d72","download_count":22,"created_at":"2026-10-29T02:39:43Z","updated_at":"2026-10-29T02:39:43Z"},{"id":687183481,"node_id":"RA_kwDOSPdiBc4o9ZZ5","name":"DBX_0.6.61_arm64-offline-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":224102944,"digest":"sha256:0d533291586b3769c42bc13cddc8aad64868ead836c827470226cdcbe4ee349a","download_count":149,"created_at":"2026-10-29T03:08:10Z","updated_at":"2026-10-29T03:08:17Z"},{"id":687183964,"node_id":"RA_kwDOSPdiBc4o9Zhc","name":"DBX_0.6.61_arm64-portable.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":42425889,"digest":"sha256:d6710c44f67ef42c6cc05d1b281df89edf064ea4d119a4664a23ca4577165d4e","download_count":79,"created_at":"2026-10-29T03:08:25Z","updated_at":"2026-10-29T03:08:26Z"},{"id":687183962,"node_id":"RA_kwDOSPdiBc4o9Zha","name":"DBX_0.6.61_arm64-portable.zip.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":420,"digest":"sha256:7645bc55fc6c422cd2e8f383415f9724bfd94051ee5294656e16abd0cb39f368","download_count":17,"created_at":"2026-10-29T03:08:25Z","updated_at":"2026-10-29T03:08:25Z"},{"id":687178957,"node_id":"RA_kwDOSPdiBc4o9YTN","name":"DBX_0.6.61_arm64-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":31163488,"digest":"sha256:048a31e5b1f84076bad05afce07086d721f60124036f88b0da4fd852e4d1396d","download_count":77,"created_at":"2026-10-29T03:05:46Z","updated_at":"2026-10-29T03:05:47Z"},{"id":687183471,"node_id":"RA_kwDOSPdiBc4o9ZZv","name":"DBX_0.6.61_arm64.app.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":45445158,"digest":"sha256:a8bac208da7773c40e851d91d8a211c993b6fc0fa289c234a13601d84fc0ee60","download_count":849,"created_at":"2026-10-29T03:08:10Z","updated_at":"2026-10-29T03:08:12Z"},{"id":687139362,"node_id":"RA_kwDOSPdiBc4o9Ooi","name":"DBX_0.6.61_arm64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":119851528,"digest":"sha256:acde76fcb36ae19112aa0ab87a5ccb2d598d8abbed9bf4db7eccd7657eb41fa2","download_count":69,"created_at":"2026-10-29T02:45:27Z","updated_at":"2026-10-29T02:45:31Z"},{"id":687139251,"node_id":"RA_kwDOSPdiBc4o9Omz","name":"DBX_0.6.61_arm64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":47326664,"digest":"sha256:55414bfb61b2df16994666879bdba6e3e89d9886acdbee169fb8c3c8513624b0","download_count":68,"created_at":"2026-10-29T02:45:23Z","updated_at":"2026-10-29T02:45:25Z"},{"id":687183385,"node_id":"RA_kwDOSPdiBc4o9ZYZ","name":"DBX_0.6.61_arm64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":45117000,"digest":"sha256:c4a6109f81378a1997e916369dc191d9026b1d5108b1b3f063a7152676c80b25","download_count":1793,"created_at":"2026-10-29T03:08:07Z","updated_at":"2026-10-29T03:08:09Z"},{"id":687139307,"node_id":"RA_kwDOSPdiBc4o9Onr","name":"DBX_0.6.61_arm64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":47327862,"digest":"sha256:34baf8a04ded041ddbe3883eb0a82021cfad00a86248bf77f26cdb228e2e4316","download_count":59,"created_at":"2026-10-29T02:45:25Z","updated_at":"2026-10-29T02:45:27Z"},{"id":687178869,"node_id":"RA_kwDOSPdiBc4o9YR1","name":"DBX_0.6.61_arm64_en-US.msi","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":41811968,"digest":"sha256:e6de31ac30c0bfa10ebfaf5985636993bc9c341f71f8c4486da4bf505af2f5ed","download_count":63,"created_at":"2026-10-29T03:05:44Z","updated_at":"2026-10-29T03:05:45Z"},{"id":687112340,"node_id":"RA_kwDOSPdiBc4o9ICU","name":"DBX_0.6.61_fnos.fpk","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":81208,"digest":"sha256:b7f317521b320196728a50f757af10ec8959def51f91222456a65b031c909740","download_count":20,"created_at":"2026-10-29T02:32:07Z","updated_at":"2026-10-29T02:32:08Z"},{"id":687112343,"node_id":"RA_kwDOSPdiBc4o9ICX","name":"DBX_0.6.61_fnos.fpk.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":86,"digest":"sha256:edec7af6c50f46e39af7ea8209eb638e7b215de221b799d62dedcf105f8cfc06","download_count":15,"created_at":"2026-10-29T02:32:07Z","updated_at":"2026-10-29T02:32:08Z"},{"id":687098080,"node_id":"RA_kwDOSPdiBc4o9Ejg","name":"DBX_0.6.61_x64-browser-static.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":44221990,"digest":"sha256:0d354b2ebf743ebb216561ef9bf4f842145f1b0b1f635680bf172c89b722acb5","download_count":72,"created_at":"2026-10-29T02:26:54Z","updated_at":"2026-10-29T02:26:55Z"},{"id":687098081,"node_id":"RA_kwDOSPdiBc4o9Ejh","name":"DBX_0.6.61_x64-browser-static.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":103,"digest":"sha256:584a0885084b80417cbd3a5769e8db8078f3a8f0f21de1f1392b6e19c86ccae5","download_count":22,"created_at":"2026-10-29T02:26:54Z","updated_at":"2026-10-29T02:26:54Z"},{"id":687166948,"node_id":"RA_kwDOSPdiBc4o9VXk","name":"DBX_0.6.61_x64-offline-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":251548624,"digest":"sha256:00ffbc6eefcf557a545d3889bcc4035e26e45c3c8ca30e7c31b63440f36cf2a1","download_count":225,"created_at":"2026-10-29T03:00:10Z","updated_at":"2026-10-29T03:00:21Z"},{"id":687167792,"node_id":"RA_kwDOSPdiBc4o9Vkw","name":"DBX_0.6.61_x64-portable.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":44503517,"digest":"sha256:0df53828b2b1fc6b154b9cbc2890ce16beec70bb053d9d3c958162d273caffe7","download_count":1298,"created_at":"2026-10-29T03:00:30Z","updated_at":"2026-10-29T03:00:32Z"},{"id":687167790,"node_id":"RA_kwDOSPdiBc4o9Vku","name":"DBX_0.6.61_x64-portable.zip.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":416,"digest":"sha256:ad308762502917b4ac61885da532a9a3724cbbce6d259ca825691edf6a44bb73","download_count":628,"created_at":"2026-10-29T03:00:30Z","updated_at":"2026-10-29T03:00:30Z"},{"id":687161298,"node_id":"RA_kwDOSPdiBc4o9T_S","name":"DBX_0.6.61_x64-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":33878568,"digest":"sha256:7f27f8bb0d3dfbbbd3d370d0907562a9559d09d359c2a71d226746b07c031991","download_count":3896,"created_at":"2026-10-29T02:57:32Z","updated_at":"2026-10-29T02:57:34Z"},{"id":687228057,"node_id":"RA_kwDOSPdiBc4o9kSZ","name":"DBX_0.6.61_x64-win7-server2012r2-offline-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-msdownload","state":"uploaded","size":187793736,"digest":"sha256:86a7a041d507e21701b4db83810f0ebfb62cb88323d9ebeb045acace354f7956","download_count":90,"created_at":"2026-10-29T03:30:16Z","updated_at":"2026-10-29T03:30:22Z"},{"id":687228055,"node_id":"RA_kwDOSPdiBc4o9kSX","name":"DBX_0.6.61_x64-win7-server2012r2-offline-setup.exe.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":118,"digest":"sha256:d54640ff96657c4a068bf091ae4284f63eacb38488298a32a9b8a5c951e4a000","download_count":17,"created_at":"2026-10-29T03:30:15Z","updated_at":"2026-10-29T03:30:16Z"},{"id":687217667,"node_id":"RA_kwDOSPdiBc4o9hwD","name":"DBX_0.6.61_x64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":49103566,"digest":"sha256:85f26b3aba7e9efecdf19beca3f1bd0e3f824a1edfde7988eb802f030beb450f","download_count":181,"created_at":"2026-10-29T03:25:19Z","updated_at":"2026-10-29T03:25:22Z"},{"id":687161208,"node_id":"RA_kwDOSPdiBc4o9T94","name":"DBX_0.6.61_x64_en-US.msi","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":44036096,"digest":"sha256:04652d7a0ac91c2dbe42d0829a748005a1601905464d8b204b1606b42dda18fa","download_count":149,"created_at":"2026-10-29T02:57:28Z","updated_at":"2026-10-29T02:57:31Z"},{"id":687217786,"node_id":"RA_kwDOSPdiBc4o9hx6","name":"DBX_x64.app.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":49147719,"digest":"sha256:4111d966ab1db8a95838d0e9e5da771120dd7ccc64b2a62b7a68b9755a713d62","download_count":182,"created_at":"2026-10-29T03:25:23Z","updated_at":"2026-10-29T03:25:25Z"},{"id":687286764,"node_id":"RA_kwDOSPdiBc4o9yns","name":"latest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":10746,"digest":"sha256:15acdc198dc939a6c4c1778ef4016dba898b3c3e27ebbbc53d5d542fa468e0ad","download_count":26575,"created_at":"2026-10-29T03:59:13Z","updated_at":"2026-10-29T03:59:13Z"}],"body":"v0.6.61 为 v0.6.60 的紧急修复版本，包含 v0.6.60 的其他更新。\n\n### 修复\n\n- 回退插件工作台非活动标签页布局保留改动，恢复此前的标签页挂载和切换行为 (contributed by @eryajf) (PR [#13831](https://github.com/t8y2/dbx/pull/13831))\n\n[查看自 v0.6.59 以来的全部变更](https://github.com/t8y2/dbx/compare/v0.6.59...v0.6.61)\n","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0},"mentions_count":1}

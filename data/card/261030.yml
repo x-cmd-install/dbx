@@ -1,0 +1,269 @@
+about:
+  description: "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
+  license: Apache-2.0
+  homepage: https://dbxio.com
+  head: 493ddf9
+  archived: false
+  latestVersion: "v0.6.61"
+  latestRelease: "v0.6.61"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:55:25Z
+timeline:
+  created: 2026-04-29
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
+  lastPrerelease: 
+popularity:
+  star: 28217
+  watcher: 91
+  fork: 2568
+  release: 401
+  contributor: 381
+  pullRequest: 5265
+  issue: 8485
+language:
+  Rust: 33130109
+  TypeScript: 26038228
+  Vue: 13495704
+  Go: 5700318
+  Java: 5499716
+  JavaScript: 464361
+  Python: 212021
+  CSS: 176404
+  HTML: 101669
+  NSIS: 46215
+  Shell: 35447
+  PHP: 21715
+  Nix: 19926
+  PowerShell: 13613
+  Dockerfile: 7475
+  Makefile: 5444
+  Batchfile: 3318
+  Svelte: 2031
+  C: 1316
+  Ruby: 1124
+totalBytes: 84976154
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 95
+    mergedPR: 1270
+    openPR: 115
+    closedIssue: 971
+    openIssue: 567
+    commit: 1604
+  last60d:
+    since: 2026-08-31
+    release: 99
+    mergedPR: 2466
+    openPR: 135
+    closedIssue: 2446
+    openIssue: 907
+    commit: 3341
+  last90d:
+    since: 2026-08-01
+    release: 99
+    mergedPR: 3297
+    openPR: 144
+    closedIssue: 3837
+    openIssue: 1125
+    commit: 4868
+  last180d:
+    since: 2026-05-03
+    release: 100
+    mergedPR: 4667
+    openPR: 150
+    closedIssue: 7133
+    openIssue: 1328
+    commit: 8927
+  last360d:
+    since: 2025-11-04
+    release: 100
+    mergedPR: 4709
+    openPR: 150
+    closedIssue: 7157
+    openIssue: 1328
+    commit: 9174
+  last720d:
+    since: 2024-11-09
+    release: 100
+    mergedPR: 4709
+    openPR: 150
+    closedIssue: 7157
+    openIssue: 1328
+    commit: 9264
+total:
+  release: 401
+  mergedPR: 4711
+  openPR: 150
+  closedIssue: 7157
+  openIssue: 1328
+  commit: 9264
+---
+path: /home/runner/.x-repo/github.com/t8y2/dbx
+collectedAt: 2026-10-30T06:56:09Z
+loc:
+  TypeScript:
+    code: 852826
+    comments: 30473
+    blanks: 75851
+    files: 3684
+  Rust:
+    code: 784210
+    comments: 19550
+    blanks: 57617
+    files: 1144
+  Go:
+    code: 200219
+    comments: 7532
+    blanks: 15151
+    files: 431
+  Java:
+    code: 107109
+    comments: 2535
+    blanks: 9845
+    files: 310
+  Vue:
+    code: 29510
+    comments: 366
+    blanks: 1741
+    files: 581
+  Json:
+    code: 25215
+    comments: 0
+    blanks: 0
+    files: 101
+  Yaml:
+    code: 18978
+    comments: 57
+    blanks: 2856
+    files: 162
+  JavaScript:
+    code: 10150
+    comments: 133
+    blanks: 767
+    files: 86
+  Css:
+    code: 6772
+    comments: 412
+    blanks: 985
+    files: 12
+  Tsx:
+    code: 6277
+    comments: 78
+    blanks: 474
+    files: 42
+  Python:
+    code: 4607
+    comments: 52
+    blanks: 601
+    files: 21
+  Svg:
+    code: 2607
+    comments: 85
+    blanks: 8
+    files: 189
+  Toml:
+    code: 2148
+    comments: 159
+    blanks: 355
+    files: 54
+  Sh:
+    code: 1194
+    comments: 294
+    blanks: 177
+    files: 19
+  Kotlin:
+    code: 893
+    comments: 113
+    blanks: 123
+    files: 8
+  Html:
+    code: 726
+    comments: 1
+    blanks: 81
+    files: 7
+  Php:
+    code: 604
+    comments: 17
+    blanks: 75
+    files: 2
+  PowerShell:
+    code: 507
+    comments: 29
+    blanks: 57
+    files: 7
+  Sql:
+    code: 341
+    comments: 7
+    blanks: 35
+    files: 10
+  Nix:
+    code: 304
+    comments: 98
+    blanks: 38
+    files: 1
+  Batch:
+    code: 242
+    comments: 40
+    blanks: 48
+    files: 7
+  Dockerfile:
+    code: 129
+    comments: 21
+    blanks: 12
+    files: 3
+  Makefile:
+    code: 109
+    comments: 2
+    blanks: 29
+    files: 1
+  Bash:
+    code: 88
+    comments: 10
+    blanks: 20
+    files: 10
+  C:
+    code: 68
+    comments: 1
+    blanks: 8
+    files: 2
+  Zsh:
+    code: 41
+    comments: 2
+    blanks: 7
+    files: 1
+  Ruby:
+    code: 28
+    comments: 3
+    blanks: 7
+    files: 1
+  Prolog:
+    code: 27
+    comments: 0
+    blanks: 8
+    files: 1
+  Svelte:
+    code: 12
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 13063
+    blanks: 5449
+    files: 178
+  Text:
+    code: 0
+    comments: 305
+    blanks: 67
+    files: 5
+total:
+  code: 2285371
+  comments: 100569
+  blanks: 190783
+  files: 7081
+---
+
+---
