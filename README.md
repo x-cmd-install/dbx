@@ -14,15 +14,15 @@ x install dbx
 
 ## Code insight
 
-Total: **2,120,462** lines of code across **6372** files in the top 5 languages.
+Total: **2,117,260** lines of code across **6430** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 888,800 | 32,456 | 79,542 | 3845 |
-| Rust | 805,820 | 20,590 | 58,505 | 1167 |
-| Go | 203,917 | 7,843 | 15,435 | 451 |
-| Java | 108,628 | 2,630 | 9,980 | 312 |
-| Vue | 30,332 | 370 | 1,763 | 597 |
+| TypeScript | 898,603 | 32,775 | 80,322 | 3886 |
+| Rust | 792,005 | 39,033 | 57,438 | 1178 |
+| Go | 203,995 | 7,847 | 15,436 | 451 |
+| Java | 108,693 | 2,642 | 9,986 | 312 |
+| Vue | 30,604 | 371 | 1,781 | 603 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **2,120,462** lines of code across **6372** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `packages-v0.4.144` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Latest**: `v0.6.72-beta.20261119.1` (2026-11-16)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 30,472 · **Forks**: 2,770 · **Open issues**: 9,081 · **Contributors**: 407
+- **Stars**: 30,853 · **Forks**: 2,812 · **Open issues**: 9,207 · **Contributors**: 415
 
 ## Totals (cumulative)
 
-- **Releases**: 442 · **Merged PRs**: 5100 · **Open PRs**: 175 · **Closed issues**: 7517 · **Open issues**: 1564 · **Commits**: 9767
+- **Releases**: 447 · **Merged PRs**: 5180 · **Open PRs**: 195 · **Closed issues**: 7598 · **Open issues**: 1609 · **Commits**: 9854
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 80 | 897 | 126 | 733 | 581 | 905 |
-| last60d | 2026-09-17 | 99 | 2246 | 155 | 1948 | 927 | 2657 |
-| 90d | 2026-08-18 | 99 | 3192 | 163 | 3383 | 1267 | 4287 |
-| last180d | 2026-05-20 | 100 | 5015 | 175 | 7251 | 1563 | 8532 |
-| 360d | 2025-11-21 | 100 | 5098 | 175 | 7517 | 1564 | 9677 |
-| last720d | 2024-11-26 | 100 | 5098 | 175 | 7517 | 1564 | 9767 |
+| 30d | 2026-10-20 | 77 | 836 | 138 | 703 | 564 | 0 |
+| last60d | 2026-09-20 | 99 | 2165 | 177 | 1885 | 947 | 0 |
+| 90d | 2026-08-21 | 99 | 3182 | 183 | 3273 | 1285 | 0 |
+| last180d | 2026-05-23 | 100 | 5092 | 195 | 7275 | 1608 | 0 |
+| 360d | 2025-11-24 | 100 | 5178 | 195 | 7598 | 1609 | 0 |
+| last720d | 2024-11-29 | 100 | 5178 | 195 | 7598 | 1609 | 9854 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for dbx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:29:24Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:26:08Z._
